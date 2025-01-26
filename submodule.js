@@ -1,5 +1,5 @@
 function helloFromSubmodule() {
-	console.log('hello from submodule (add differen word)');
+	console.log('hello from submodule (add differen word) (new change in submodule)');
 }
 
 export default helloFromSubmodule;
